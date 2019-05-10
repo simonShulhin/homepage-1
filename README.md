@@ -1,2 +1,2 @@
 # Homepage
-Мій перший проект для Binary Studio :)
+ Мій перший проект для Binary Studio :)
