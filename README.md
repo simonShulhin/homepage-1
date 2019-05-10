@@ -1,2 +1,2 @@
-# homepage
+# Homepage
 Мій перший проект для Binary Studio :)
